@@ -5,7 +5,7 @@ Spring Native Example using Spring Boot 3.0 support for native image constructio
 The example has a few different components:
 
 1) The ```spring-example-web``` is a simple as they come web app that uses the ```spring-boot-starter-parent``` has its parent.
-2) Is the same application 
+
 
 ## 1. Spring Boot Parent Application
 To build and test the ```spring-example-web```

@@ -3,12 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.jasclarke24</groupId>
-	<artifactId>jasclarke24-parent</artifactId>
+	<artifactId>spring-native-examples</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JasClarke24 Parent POM</name>
+	<name>JasClarke24 :: Example :: Native Project Examples</name>
 	<description>Demo project for Spring Boot spring-boot-starter-parent</description>
+    <packaging>pom</packaging>
 
     <modules>
-        <module>spring-example-web</module>
+        <module>spring-native-example-web</module>
     </modules>
 </project>
